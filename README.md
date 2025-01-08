@@ -22,6 +22,7 @@ This is a simple Pokemon API that allows you to search for Pokemon details by ei
 - **CSS**: Styling, animations, and responsiveness.
 - Pokemon API for fetching Pokemon data.
 
+## Live (https://pokemon-eight-self.vercel.app/)
 
 ## Screenshot 📸
 ![Screenshot 2025-01-08 020528](https://github.com/user-attachments/assets/ad09a0de-01c8-42b3-b5ae-4fcb88de0928)
